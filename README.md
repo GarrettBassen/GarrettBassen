@@ -10,7 +10,7 @@
 <img width="2000" height="0"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettBassen&layout=donut&theme=dracula&hide=Batchfile">
   
-<sub>(Contribution data is <b>not</b> displayed in statistics)</sub>
+<sub>(Forked contribution data is <b>not</b> displayed in statistics)</sub>
 <img width="2000" height="0">
 </td>
 </tbody>

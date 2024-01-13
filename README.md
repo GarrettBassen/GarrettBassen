@@ -8,7 +8,7 @@
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettBassen&layout=donut&theme=dracula&hide=Batchfile">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettBassen&layout=donut&theme=dracula&hide=Batchfile,QMake">
   
 <sub>(Forked contribution data is <b>not</b> displayed in statistics)</sub>
 <img width="2000" height="0">
